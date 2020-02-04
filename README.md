@@ -1,2 +1,2 @@
-# Leecode
+# Leetcode
  My Algorithm Practice
